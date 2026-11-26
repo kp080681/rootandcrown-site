@@ -1,5 +1,5 @@
 (function(){
-  var URL_ = 'RC_FORM_URL';
+  var URL_ = 'https://script.google.com/macros/s/AKfycbwr9ezRQtyNOMXFzEjyxgkHxbIomD9XCQub9CwdbXGk3LAS0V_J0xhVfbxoAA6NEzSqcg/exec';
   var f = document.getElementById('rc-form'); if(!f) return;
   var msg = document.getElementById('rc-form-msg');
   f.addEventListener('submit', function(e){
